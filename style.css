@@ -1,0 +1,28 @@
+body{
+    background-size:cover;
+    background-position: center;
+    text-align:center;
+}
+.header{
+ background-color: rgb(211, 164, 78);
+ width:100%;
+ font-size:25px;
+ padding:10px;
+ box-shadow: 0px 10px 5px rgb(210, 92, 81);
+ font-weight: 300;
+ font-style: oblique;
+ font-family:Arial, Helvetica, sans-serif;
+ text-align:center;
+ margin-bottom: 15px;
+}
+.subhead{
+   font-weight:200;
+   font-size:15px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+canvas{
+    box-shadow: 10px 10px 10px rgb(221, 133, 133);
+    border-radius:10px;
+    margin-top:30px;
+    
+}
